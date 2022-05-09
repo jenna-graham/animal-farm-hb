@@ -1,0 +1,15 @@
+#animal-name {
+    width:300px;
+    padding-left: 100px;
+    text-align: center;
+    
+    
+}
+
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
